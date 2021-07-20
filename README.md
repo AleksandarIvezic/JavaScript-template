@@ -43,11 +43,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤👤 **Aleksandar Ivezic**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Aleksandar Ivezic](https://github.com/ShinobiWarior)
+- Twitter: [@AIvezic](https://twitter.com/AIvezic)
+- LinkedIn: [Aleksandar Ivezic](https://www.linkedin.com/in/aleksandar-ivezic/)
+
 
 👤 **Author2**
 
